@@ -1,0 +1,40 @@
+header{
+   background-image:url("image3.jpg");
+   d
+}
+div{ display:flex;
+    justify-content:space-around;
+    align-items: center;
+}
+}
+   
+    p{
+      background-image: url("image5.jpg");
+    }
+    .circle-image{
+        width:150px;
+        height:150px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .image-container{
+        display:flex;
+        justify-content:center;
+        align-items: center;
+    }
+
+    
+    .about-me{
+    text-align: center;
+    }
+    .name-ss{
+        text-align:center;
+    }
+   div{
+    background-image: url("image4.jpg");
+   }
+    
+   .b-image{
+    background-image: url("image5.jpg");
+   }
+   
